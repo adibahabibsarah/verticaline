@@ -1,0 +1,13 @@
+.line-section{
+    width: 100%;
+    padding: 100px 0px;
+}
+
+
+.line{
+    background: #000;
+    width: 1px;
+    height: 160px;
+    margin: auto;
+    transform: rotate(90deg);
+}
